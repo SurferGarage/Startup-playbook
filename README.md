@@ -2,9 +2,9 @@
 
 **浪前开源创业指南** — AI 时代超级个体与 Builder 的实战手册。
 
-[![Org](https://img.shields.io/badge/浪前-SurferGarage-111827?style=flat-square&logo=github)](https://github.com/SurferGarage)
-[![Failure Manual](https://img.shields.io/badge/配套-失败手册-0EA5E9?style=flat-square)](https://github.com/SurferGarage/failure-manual)
-[![Learning Path](https://img.shields.io/badge/导航-学习路径-F4F4F5?style=flat-square&logo=readthedocs&logoColor=111827)](https://github.com/SurferGarage/.github/blob/main/docs/LEARNING_PATH.md)
+[![Org](https://img.shields.io/badge/浪前-SurferGarage-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/SurferGarage)
+[![Failure Manual](https://img.shields.io/badge/配套-失败手册-0284C7?style=flat-square&logo=bookstack&logoColor=white)](https://github.com/SurferGarage/failure-manual)
+[![Learning Path](https://img.shields.io/badge/导航-学习路径-0369A1?style=flat-square&logo=map&logoColor=white)](https://github.com/SurferGarage/.github/blob/main/docs/LEARNING_PATH.md)
 
 欢迎来到浪前极客大本营。这不仅是一本写给 AI 时代超级个体和 Builder 的 **实战生存手册**，更是一个 **无需许可、由社区共建** 的知识网络。
 
