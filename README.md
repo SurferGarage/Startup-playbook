@@ -27,9 +27,9 @@
 
 | # | 章节 | 状态 |
 |---|------|------|
-| 01 | [从 Idea 到 MVP：如何用 AI 杠杆在一周内完成交付？](./docs/01_Idea_to_MVP.md) | 🚧 撰写中 |
-| 02 | [The Mom's Test：如何做不被欺骗的用户访谈？](./docs/02_The_Moms_Test.md) | 📝 待撰写 |
-| 03 | [寻找 PMF：产品市场契合度的真实指标](./docs/03_Finding_PMF.md) | 📝 待撰写 |
+| 01 | [从 Idea 到 MVP](./docs/01_Idea_to_MVP.md) | ✅ v1 |
+| 02 | [The Mom's Test](./docs/02_The_Moms_Test.md) | ✅ v1 |
+| 03 | [寻找 PMF](./docs/03_Finding_PMF.md) | ✅ v1 |
 
 ---
 
@@ -37,6 +37,8 @@
 
 - [Surfer AI Tools Index](./toolkit/awesome-ai-tools.md) — 社区精选 AI 工具 *(征集中)*
 - [Startup 法律 / 财务 / BP 模板](./toolkit/templates.md) — 模板库 *(征集中)*
+- [用户访谈模板](./toolkit/interview-template.md)
+- [Failure Log 模板](./toolkit/failure-log-template.md)
 
 ---
 

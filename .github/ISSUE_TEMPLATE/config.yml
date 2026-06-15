@@ -1,0 +1,5 @@
+blank_issues: false
+contact_links:
+  - name: 开源指南
+    url: https://github.com/SurferGarage/.github/blob/main/docs/GUIDE.md
+    about: 写作标准与贡献流程

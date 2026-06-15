@@ -1,0 +1,18 @@
+name: 文档贡献
+description: 为 Playbook 撰写或修订章节
+title: "[docs] "
+labels: ["content"]
+body:
+  - type: input
+    id: chapter
+    attributes:
+      label: 章节
+      placeholder: 例：04 · 增长冷启动
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: 摘要
+    validations:
+      required: true

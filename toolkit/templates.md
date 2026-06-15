@@ -8,7 +8,7 @@
 
 - [ ] 一页纸 BP 大纲
 - [ ] 联创 vesting / cliff 要点清单（公开版）
-- [ ] 用户访谈记录模板
-- [ ] 每周 Failure Log 模板（见 [失败手册](https://github.com/SurferGarage/failure-manual/blob/main/docs/04_Failure_Day.md)）
+- [x] [用户访谈模板](./interview-template.md)
+- [x] [Failure Log 模板](./failure-log-template.md)（配套 [失败手册](https://github.com/SurferGarage/failure-manual/blob/main/docs/04_Failure_Day.md)）
 
 欢迎 PR 贡献你使用过、可开源的模板（请去除敏感信息）。
